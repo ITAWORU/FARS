@@ -4,13 +4,21 @@
 # Version: 31/10/2022                 #
 #######################################
 
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 facebook.com
 0.0.0.0 www.facebook.com
+0.0.0.0 gateway.instagram.com
+0.0.0.0 graph.fbpigeon.com
 0.0.0.0 hayday.de
 0.0.0.0 www.hayday.de
 0.0.0.0 hayday.com
 0.0.0.0 www.hayday.com
 0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 pull-flv-l16-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-sg01.tiktokcdn.com
+0.0.0.0 pull-q5-va01.tiktokcdn.com
 0.0.0.0 youporn.com
 0.0.0.0 youporn.de
 0.0.0.0 www.youporn.de
