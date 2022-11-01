@@ -4,6 +4,7 @@
 # Version: 31/10/2022                 #
 #######################################
 
+0.0.0.0 b-graph.facebook.com
 0.0.0.0 cdn.fifu.app
 0.0.0.0 cdn.supercell.com
 0.0.0.0 cloud.fifu.app
@@ -16,6 +17,8 @@
 0.0.0.0 www.facebook.com
 0.0.0.0 gateway.instagram.com
 0.0.0.0 g.whatsapp.net
+0.0.0.0 gateway.facebook.com
+0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fbpigeon.com
 0.0.0.0 hayday.de
 0.0.0.0 www.hayday.de
@@ -24,16 +27,20 @@
 0.0.0.0 i.instagram.com
 0.0.0.0 instagram.com
 0.0.0.0 www.instagram.com
+0.0.0.0 lookaside.facebook.com
 0.0.0.0 onesignal.com
+0.0.0.0 portal.fb.com
 0.0.0.0 pull-flv-l16-sg01.tiktokcdn.com
 0.0.0.0 pull-cmaf-l16-sg01.tiktokcdn.com
 0.0.0.0 pull-q5-va01.tiktokcdn.com
 0.0.0.0 static.cdninstagram.com
 0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 static.ferf1-1.fna.fbcdn.net
 0.0.0.0 static.whatsapp.net
 0.0.0.0 youporn.com
 0.0.0.0 youporn.de
 0.0.0.0 www.youporn.de
 0.0.0.0 web.facebook.com
+0.0.0.0 web.whatsapp.com
 0.0.0.0 ww11.faqcebook.com
 0.0.0.0 xhamster.com
