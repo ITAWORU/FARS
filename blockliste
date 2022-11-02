@@ -107,10 +107,10 @@
 0.0.0.0 pull-f5-sg01.ttlivecdn.com                                                                                       
 0.0.0.0 pull-hls-l77-va01.tiktokcdn.com                                                                                       
 0.0.0.0 pull-flv-f10-va01.tiktokcdn.com                                                                                 
-0.0.0.0 pull-cmaf-f77-sg01.tiktokcdn.com                                                                            
-0.0.0.0 webcast16-ws-useast1a.tiktokv.com                                                                                  
-0.0.0.0 webcast22-ws-useast1a.tiktokv.com                                                                                  
-0.0.0.0 push-rtmp-f5-va01.tiktokcdn.com                                                                                      
-0.0.0.0 pull-cmaf-l16-gcp01.tiktokcdn.com                                                                                   
-0.0.0.0 api16-normal-c-useast1a.tiktokv.com                                                                               
-0.0.0.0 external.ferf1-1.fna.fbcdn.net             
+0.0.0.0 pull-cmaf-f77-sg01.tiktokcdn.com
+0.0.0.0 webcast16-ws-useast1a.tiktokv.com
+0.0.0.0 webcast22-ws-useast1a.tiktokv.com
+0.0.0.0 push-rtmp-f5-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-gcp01.tiktokcdn.com
+0.0.0.0 api16-normal-c-useast1a.tiktokv.com
+0.0.0.0 external.ferf1-1.fna.fbcdn.net
