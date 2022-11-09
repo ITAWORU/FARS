@@ -10,7 +10,6 @@
 0.0.0.0 cloud.fifu.app
 0.0.0.0 connect.facebook.net
 0.0.0.0 de-de.facebook.com
-0.0.0.0 dit.whatsapp.net
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 facebook.com
 0.0.0.0 facebook.de
@@ -35,7 +34,6 @@
 0.0.0.0 static.cdninstagram.com
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 static.ferf1-1.fna.fbcdn.net
-0.0.0.0 static.whatsapp.net
 0.0.0.0 youporn.com
 0.0.0.0 youporn.de
 0.0.0.0 www.youporn.de
@@ -78,11 +76,8 @@
 0.0.0.0 www.xboxab.com
 0.0.0.0 tnc16-platform-useast1a.tiktokv.com
 0.0.0.0 hotapi16-normal-useast1a.tiktokv.com
-0.0.0.0 media-ber1-1.cdn.whatsapp.net
-0.0.0.0 mmg.whatsapp.net
 0.0.0.0 scontent.cdninstagram.com
 0.0.0.0 lps.innogames.com
-0.0.0.0 media-ham3-1.cdn.whatsapp.net
 0.0.0.0 p16-sign-sg.tiktokcdn.com
 0.0.0.0 gecko16-normal-useast1a.tiktokv.com
 0.0.0.0 pull-flv-l10-sg01.tiktokcdn.com
