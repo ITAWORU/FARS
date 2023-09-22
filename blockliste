@@ -4,6 +4,8 @@
 # Version: 31/10/2022                 #
 #######################################
 
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktokcdn.com
 0.0.0.0 b-graph.facebook.com
 0.0.0.0 cdn.fifu.app
 0.0.0.0 cdn.supercell.com
